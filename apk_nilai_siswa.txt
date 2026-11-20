@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EduGrade - Sistem Penilaian & Rapor Siswa</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://script.google.com/macros/s/AKfycby4YnUczu_8y4fi5VwZu233X_DhFtk8GB6py3KpLhjjzW8RqiXzLC5rmaBh1UuU54bPcQ/exec" allow="fullscreen"></iframe>
+</body>
+</html>
